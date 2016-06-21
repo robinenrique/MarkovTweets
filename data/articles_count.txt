@@ -1,0 +1,122 @@
+STAR WARS		Sources: CNN, NY Daily, NY Times, Huffington Post, The Guardian
+Star:47
+Wars:47
+trailer:45
+Force:23 
+Awakens:23
+teaser:12
+first:10
+2014:9
+DARREN WILSON		Sources: CBS News, Fox News, Rolling Stone, NY Times, CBC News
+Wilson:71
+Ferguson:58
+police:57
+resignation:23
+grand jury:23
+Darren:21
+officers:20	
+DENVER POLICE		Sources: FOX News, Commerce City Sentinel, Denver Post, 9 News, CBS News 
+Police:44
+Denver:26
+officers:22
+car:21
+Commerce City:21
+vehicle:13
+EGYPT ISIS
+group:58
+Islamic:50
+ISIS:46
+State:43
+Sinai:39
+Egypt:32
+Sources: NY Mag, Daily Mail, Washington Times, Fire Dog Lake, The Daily Beast
+FORTLAUDERDALE
+homeless:94
+Abbott:78
+Fort:58
+Lauderdale:58
+people:50
+city:39
+Arnold:28
+Sources: NBC News, Huffington Post, FOX News, Daily Mail, NY Daily News
+FREEZING STATES
+snow:41
+New York:31
+Buffalo:30
+Tuesday:29
+temperatures:24
+feet:24
+2014:24
+Sources: US News, Reuters, Washington Post, Baltimore Sun, Huffington Post
+NEONAZIS
+neo Nazis:53
+march:22
+Wunsiedel:22
+Rechts:22
+town:20
+Nazi:18
+Sources: Vice News, Washington Post, Ynet News, The Guardian, Independent
+JERUSALEM
+attack:96
+Jerusalem:75
+synagogue:64
+Israeli:57
+Palestinian:42
+Israel:37
+Sources: Huffington Post, The Guardian, Times of Israel, BBC News, CNN
+MEXICOSTUDENTS
+students:88
+Murillo:39
+police:31
+Mexico:28
+gang:25
+Iguala:25
+Sources: CNN, BBC News, Huffington Post, The Guardian, NBC News
+OBAMACOPS
+police:63
+cameras:36
+law:35
+Obama:35
+enforcement:34
+Ferguson:31
+Sources: Huffington Post, NBC News, The Verge, Daily Mail, Fox News
+PLATINIPICASSO
+2018:49
+Russia:42
+bid:41
+FIFA:39
+World Cup:33
+Platini:23
+Sources: The Washington Post, CNN, NY Daily News, BBC, Huffington Post
+SWEDENSUB
+33 Sweden
+36 Swedish
+33 submarine
+25 military
+22 waters
+16 Russian
+Sources: CNN, BBC, The Guardian, NY Times, Reuters
+UKRAINE
+Ukraine:35
+power:32
+plant:30
+nuclear:21
+country:12
+reactor:11
+Sources: CNN, Newser, Euro News, Business Insider, The Guardian
+NYPDChokehold
+Garner:98
+police:56
+New York:44
+death:43
+grand jury:40
+officer:36
+Sources: Huffington Post, NY Times, CNN, Washington Post, The Guardian
+FERGUSONBROWN
+police:42
+officer:36
+Brown:26
+Wilson:23
+Ferguson:17
+Michael:16
+Sources: ABC News, 

@@ -1,0 +1,4 @@
+Program to generate natural language using Markov chains.
+
+To search for tweets, please run twitter.py after changing
+keywords to search inside it.
